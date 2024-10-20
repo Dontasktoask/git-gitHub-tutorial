@@ -1,1 +1,3 @@
 bugs are fixes
+
+2 more bugs are fixed 
