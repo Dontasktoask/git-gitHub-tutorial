@@ -5,3 +5,5 @@ added bootstrap changes in to make website responsive
 CSS tailwind change are added
 
 new changes are under process
+
+added changes to chcek how stash works
