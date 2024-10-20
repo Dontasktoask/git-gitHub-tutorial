@@ -2,3 +2,5 @@ HTML
 Basic Html
 
 added crousal in page
+
+added manus for sidebar
