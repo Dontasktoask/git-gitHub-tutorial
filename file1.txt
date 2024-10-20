@@ -4,3 +4,5 @@ Basic Html
 added crousal in page
 
 added manus for sidebar
+
+added main component in page
