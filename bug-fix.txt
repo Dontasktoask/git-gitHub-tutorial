@@ -1,3 +1,7 @@
 bugs are fixes
 
 2 more bugs are fixed 
+
+3rd bug is detected and fixed
+
+4th bug is fixed
