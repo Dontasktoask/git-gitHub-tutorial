@@ -2,4 +2,4 @@ Css
 
 added bootstrap changes in to make website responsive
 
-css new feature added
+CSS tailwind change are added
