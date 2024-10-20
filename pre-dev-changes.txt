@@ -1,1 +1,3 @@
 this is rebase example for tutorial
+
+role admin implementation
